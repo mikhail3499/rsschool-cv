@@ -1,4 +1,4 @@
-# <**Mikhail Tutov**>
+# **Mikhail Tutov**
 # **My Contact Info**
 * **Address:** Taraschancev st. Volgograd, Russia
 * **Phone:** +7 (960) 890 9407
@@ -13,7 +13,8 @@ My name is Mikhail.I am 24 years old, I work as an electronics engineer. When I 
 * C++(basic)
 # **Code example:**
 
-```function spinWords(string) 
+```
+function spinWords(string) 
 {
 
   var sentence = "";
@@ -33,4 +34,12 @@ My name is Mikhail.I am 24 years old, I work as an electronics engineer. When I 
   return sentence;
 }
 
-console.log(spinWords("Seriously this is the last one"));```
+console.log(spinWords("Seriously this is the last one"));
+```
+# **Work experience:**
+ Nothing yet
+
+# **Education and courses:**
+University: Volgograd State Technical University, Engineer
+# **English:**
+A2 (learned in university and practice by films and serials)
