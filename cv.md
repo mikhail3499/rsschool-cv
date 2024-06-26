@@ -1,19 +1,19 @@
 # <**Mikhail Tutov**>
-## <**My Contact Info**>
+# **My Contact Info**
 * **Address:** Taraschancev st. Volgograd, Russia
 * **Phone:** +7 (960) 890 9407
 * **E-mail:** mihail349960@gmail.com
 * **GitHub:** [mikhail3499](https://github.com/mikhail3499)
 * **Telegram:** [Tutov Mikhaul](https://t.me/tutovmikhail)
 * **Discord** Mikhail Tutov (@mikhail3499)
-### <**About Me**>
+# **About Me**
 My name is Mikhail.I am 24 years old, I work as an electronics engineer. When I was at university, I studied the basics of programming in C# and C++. I learn quickly and easily join any team.
-#### <**Skills**>
+# **Skills**
 * C#(basic)
 * C++(basic)
-##### <**Code example:**>
+# **Code example:**
 
-'''function spinWords(string) 
+```function spinWords(string) 
 {
 
   var sentence = "";
@@ -33,4 +33,4 @@ My name is Mikhail.I am 24 years old, I work as an electronics engineer. When I 
   return sentence;
 }
 
-console.log(spinWords("Seriously this is the last one"));'''
+console.log(spinWords("Seriously this is the last one"));```
